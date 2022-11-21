@@ -44,7 +44,9 @@
 <a href="http://www.github.com/Meli4n"><img src="https://activity-graph.herokuapp.com/graph?username=Meli4n&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 </p>
 
-![add](https://user-images.githubusercontent.com/112786351/203168597-42b5c3c7-0444-480c-98ef-64b8fc3b72aa.gif)![ahta](https://user-images.githubusercontent.com/112786351/203168610-7ddf31c9-1194-492a-87ff-cfe3740154f3.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/source.gif" alt="animated" width="700" height="400" />
+</p>
 
 ## Connect with me:
 
