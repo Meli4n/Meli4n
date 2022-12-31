@@ -34,9 +34,7 @@
 <a href="http://www.github.com/Meli4n"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Meli4n&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 <p/>
 
-<p align="right">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/source.gif" alt="animated" width="300" height="200" />
-</p>
+<img align="right" alt="Coding" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/source.gif" alt="animated" width="300" height="200" />
 
 <a href="http://www.github.com/Meli4n"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Meli4n&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
