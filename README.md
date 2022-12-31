@@ -33,11 +33,12 @@
 <a href="http://www.github.com/Meli4n"><img src="https://github-readme-stats.vercel.app/api?username=Meli4n&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Meli4n's GitHub stats" /></a>
 <a href="http://www.github.com/Meli4n"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Meli4n&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 <p/>
+https://www.lambdatest.com/resources/images/news24.gif
 
 <a href="http://www.github.com/Meli4n"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Meli4n&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/source.gif" alt="animated" width="600" height="350" />
+  <img src="https://www.lambdatest.com/resources/images/news24.gif" alt="animated" width="600" height="350" />
 </p>
 
 ## Connect with me:
