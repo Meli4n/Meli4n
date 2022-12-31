@@ -45,7 +45,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/source.gif" alt="animated" width="600" height="350" />
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/source.gif" alt="animated" width="300" height="150"/>
 </p>
 
 ## Connect with me:
