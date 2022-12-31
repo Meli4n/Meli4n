@@ -37,7 +37,7 @@
 <a href="http://www.github.com/Meli4n"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Meli4n&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <p align="center">
-  <img src="https://www.lambdatest.com/resources/images/news24.gif" alt="animated" width="600" height="350" />
+  <img src="https://www.lambdatest.com/resources/images/news24.gif" alt="animated" width="600" height="300" />
 </p>
 
 ## Connect with me:
