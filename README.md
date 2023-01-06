@@ -9,7 +9,7 @@
 ## About Me👨‍💻
 *   🌍  I'm based in İstanbul
 *   ✉️  How to reach me [mel1andevelop@gmail.com](mailto:mel1andevelop@gmail.com)
-*   🧠  I'm learning unitiy, blender and C#
+*   🧠  I'm learning unitiy C# and unitiy
 
 
 
@@ -23,7 +23,6 @@
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
     <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
     <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
-    <a href="https://www.blender.org" target="_blank" rel="noreferrer"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="36" height="36" alt="Blender" /></a>
     <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="36" height="36" alt="Unity" /></a>
 </p>
 
