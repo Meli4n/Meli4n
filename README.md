@@ -9,7 +9,7 @@
 ## About Me👨‍💻
 *   🌍  I'm based in İstanbul
 *   ✉️  How to reach me [mel1andevelop@gmail.com](mailto:mel1andevelop@gmail.com)
-*   🧠  I'm learning unitiy C# and unitiy
+*   🧠  I'm learning C# and unitiy
 
 
 
